@@ -27,3 +27,4 @@ window.addEventListener('beforeinstallprompt', (event) => {
         });
     });
 });
+// בדיקה
